@@ -1,4 +1,4 @@
-# Exercice 3 : Navigation dans le terminal
+# Navigation dans le terminal
 
 ## Objectif
 
